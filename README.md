@@ -106,3 +106,10 @@ Descargar archivo postman para pruebas  en:
 ```
  /resources/postman/signupservice.postman_collection.json
 ```
+
+
+```
+ Diagrama de Solución
+```
+
+![Logo de mi proyecto](src/main/resources/images/imagen.png)

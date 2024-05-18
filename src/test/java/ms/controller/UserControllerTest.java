@@ -63,9 +63,9 @@ public class UserControllerTest {
         userId = UUID.fromString("a0b1c2d3-e4f5-6789-0123-456789abcdef");
         user = new User();
         user.setId(userId);
-        user.setName("John Doe");
-        user.setUsername("johndoe");
-        user.setEmail("john.doe@example.com");
+        user.setName("Alejandro Sandoval");
+        user.setUsername("asandovalster");
+        user.setEmail("alejandro.sandoval@gmail.com");
         user.setPassword("$2a$10$CvnTvMf85SNMku/jNKzlQenfpxz7V0lyiQxK94KREkexLMSf/OW0e");
         mockMvc = MockMvcBuilders
                 .webAppContextSetup(context)
